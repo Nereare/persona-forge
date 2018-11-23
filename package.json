@@ -1,0 +1,9 @@
+{
+  "name": "persona-forge",
+  "version": "0.1.0-alpha",
+  "description": "An online tool for defining the personality, physical traits and perks of a persona.",
+  "main": "index.html",
+  "author": "Igor Padoim <igorpadoim@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
