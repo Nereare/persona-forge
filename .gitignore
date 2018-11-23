@@ -11,12 +11,11 @@
 *.msm
 *.msp
 
-# Output Folders #
-##################
-_site/
+# Output Contents #
+###################
 .sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+*.css
+*.css.map
 
 # Packages #
 ############
