@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "angular": "^1.7.5",
+    "angular": "^1.7.9",
     "angular-route": "^1.7.5",
     "skeleton-css": "^2.0.4",
     "typeface-quicksand": "^0.0.54",
